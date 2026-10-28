@@ -84,7 +84,7 @@ These books define the PE canon — narratives and frameworks that every practit
 | [**The Empire Builder's Playbook**](https://www.amazon.com/dp/1544538960) | Adam Coffey | Sequel to the Playbook, focused on scaling through buy-and-build strategies to create significant enterprise value. |
 | [**Masters of Private Equity and Venture Capital**](https://www.amazon.com/dp/0071624600) | Robert Finkel, David Greising | In-depth interviews with ten pioneering PE/VC investors on how they source deals, improve companies, and generate returns. |
 | [**The New Tycoons**](https://www.amazon.com/dp/1118205464) | Jason Kelly | An inside look at the trillion-dollar industry and the personalities who run it — Schwarzman, Kravis, Rubenstein, Conway, and others. |
-| [**How to Make Money in Private Equity**](https://www.amazon.com/dp/0071709525) | David Rubenstein | The Carlyle co-founder interviews legendary investors on their origin stories, strategies, and mistakes. |
+| [**How to Invest: Masters on the Craft**](https://www.amazon.com/dp/1982190302) | David Rubenstein | The Carlyle co-founder interviews legendary investors on their origin stories, strategies, and mistakes. |
 
 ### 📊 Technical & Valuation
 
@@ -95,7 +95,7 @@ The mechanical knowledge: modeling, valuation, and deal analysis.
 | [**Investment Banking: Valuation, LBOs, M&A, and IPOs**](https://www.amazon.com/dp/1119706181) | Joshua Rosenbaum, Joshua Pearl | The industry-standard textbook for valuation and transaction analysis. Used by virtually every analyst at every major bank and PE firm. |
 | [**Valuation: Measuring and Managing the Value of Companies**](https://www.amazon.com/dp/1119610885) | McKinsey & Company, Tim Koller et al. | Approaching its 40th year in publication — the most comprehensive treatment of corporate valuation from first principles. |
 | [**Financial Modeling and Valuation**](https://www.amazon.com/dp/1118558766) | Paul Pignataro | Practical step-by-step guide to building financial models used in investment banking and PE, with real case studies. |
-| [**Private Equity Operational Due Diligence**](https://www.amazon.com/dp/1118113900) | Jason Scharfman | Deep dive into the operational diligence process — evaluating liquidity, valuation methodology, and documentation beyond the numbers. |
+| [**Private Equity Operational Due Diligence**](https://www.amazon.com/dp/111811390X) | Jason Scharfman | Deep dive into the operational diligence process — evaluating liquidity, valuation methodology, and documentation beyond the numbers. |
 | [**The Private Equity Toolkit**](https://www.amazon.com/dp/1119697107) | Tamara Sakovska | Step-by-step guide from sourcing to exit. Practical frameworks usable immediately by anyone working on transactions. |
 | [**Mastering Private Equity**](https://www.amazon.com/dp/1119327970) | Claudia Zeisberger, Michael Prahl, Bowen White | INSEAD-published case-based textbook covering the full PE lifecycle. Widely used in MBA and executive education programs. |
 
@@ -105,9 +105,9 @@ How PE firms actually improve the companies they own.
 
 | Book | Author(s) | Why It Matters |
 |------|-----------|----------------|
-| [**Lessons from Private Equity Any Company Can Use**](https://www.amazon.com/dp/1422124932) | Orit Gadiesh, Hugh MacArthur | Bain partners distill PE's five core disciplines of value creation into principles any business leader can apply. |
-| [**The Operating Partner Playbook**](https://www.amazon.com/dp/B0CXWJV5WV) | Various | Comprehensive guide to total value creation — the evolving role of operating partners and how they drive EBITDA growth. |
-| [**The 5x CEO**](https://www.amazon.com/dp/B0D3NWDVHC) | Multiple Authors | Strategies and tactics of top PE-backed CEOs who have consistently accelerated value and maximized returns across multiple hold periods. |
+| [**Lessons from Private Equity Any Company Can Use**](https://www.amazon.com/dp/1422124959) | Orit Gadiesh, Hugh MacArthur | Bain partners distill PE's five core disciplines of value creation into principles any business leader can apply. |
+| [**The Operating Partner Playbook**](https://www.amazon.com/s?k=9798889406617) | Mohamad Chahine | Comprehensive guide to total value creation — the evolving role of operating partners and how they drive EBITDA growth. |
+| [**The 5x CEO**](https://www.amazon.com/s?k=The+5x+CEO+Samantha+Allison) | Samantha Allison, Taavo Godtfredsen | Strategies and tactics of top PE-backed CEOs who have consistently accelerated value and maximized returns across multiple hold periods. |
 | [**How Big Things Get Done**](https://www.amazon.com/dp/0593239512) | Bent Flyvbjerg, Dan Gardner | Not strictly PE, but essential for anyone overseeing capital-intensive portfolio companies. Based on 15,000+ megaprojects and why they fail. |
 | [**Scaling Up**](https://www.amazon.com/dp/0986019526) | Verne Harnish | The go-to operating framework for growing mid-market companies. Covers strategy, people, execution, and cash — the four decisions every company must get right. |
 
@@ -118,8 +118,8 @@ Structuring transactions and navigating complex multi-party dynamics.
 | Book | Author(s) | Why It Matters |
 |------|-----------|----------------|
 | [**Negotiation Genius**](https://www.amazon.com/dp/0553384112) | Deepak Malhotra, Max Bazerman | Harvard Business School's framework for handling tough negotiations. Directly applicable to deal structuring, management negotiations, and exit processes. |
-| [**Dealmaking: The New Strategy of Negotiauctions**](https://www.amazon.com/dp/0393339505) | Guhan Subramanian | HBS/HLS professor on the intersection of negotiation and auction theory — the dynamics of competitive deal processes. |
-| [**Investment Banks, Hedge Funds, and Private Equity**](https://www.amazon.com/dp/0124158307) | David Stowell | How all three sectors interact, compete, and sustain each other. Captures the reshaping of finance after 2008. |
+| [**Dealmaking: The New Strategy of Negotiauctions**](https://www.amazon.com/dp/0393339955) | Guhan Subramanian | HBS/HLS professor on the intersection of negotiation and auction theory — the dynamics of competitive deal processes. |
+| [**Investment Banks, Hedge Funds, and Private Equity**](https://www.amazon.com/dp/012415820X) | David Stowell | How all three sectors interact, compete, and sustain each other. Captures the reshaping of finance after 2008. |
 
 ### 🏦 LP Perspective & Fund Management
 
@@ -130,7 +130,7 @@ For investors evaluating funds, and GPs building durable firms.
 | [**Private Equity: History, Governance, and Operations**](https://www.amazon.com/dp/1118138503) | Harry Cendrowski et al. | Comprehensive reference on PE fund structure, governance, regulation, and operations from the LP perspective. |
 | [**Multi-Asset Class Investment Strategy**](https://www.amazon.com/dp/0470027991) | Guy Fraser-Sampson | How PE fits within a broader institutional portfolio. Covers asset allocation, performance measurement, and risk management. |
 | [**Private Capital Investing**](https://www.amazon.com/dp/1119526167) | Roberto Ippolito | Accessible primer on fund economics, J-curve, vintage year effects, and how to evaluate GP track records. |
-| [**Investing in Real Estate Private Equity**](https://www.amazon.com/dp/B084DFS5QC) | Sean Cook | Insider's guide to REPE partnerships, fund structures, joint ventures, and crowdfunding — bridging PE and real estate. |
+| [**Investing in Real Estate Private Equity**](https://www.amazon.com/dp/1980587027) | Sean Cook | Insider's guide to REPE partnerships, fund structures, joint ventures, and crowdfunding — bridging PE and real estate. |
 
 ### 🔍 Critical Perspectives & Industry History
 
@@ -139,7 +139,7 @@ Understand the criticisms and systemic effects of private equity.
 | Book | Author(s) | Why It Matters |
 |------|-----------|----------------|
 | [**Plunder: Private Equity's Plan to Pillage America**](https://www.amazon.com/dp/1541702107) | Brendan Ballou | Written by a former DOJ prosecutor. Examines how PE firms acquire businesses, leverage them, and extract value — often at the expense of workers and communities. |
-| [**Bad Company**](https://www.amazon.com/dp/1982191309) | Megan Greenwell | Investigative journalism on PE's impact on American healthcare, retail, media, and housing. Essential for understanding the reputational landscape. |
+| [**Bad Company**](https://www.amazon.com/dp/0063299356) | Megan Greenwell | Investigative journalism on PE's impact on American healthcare, retail, media, and housing. Essential for understanding the reputational landscape. |
 | [**These Are the Plunderers**](https://www.amazon.com/dp/1982191287) | Gretchen Morgenson, Joshua Rosner | How PE's financial engineering affects pensions, workers, and the broader economy. |
 | [**Fooling Some of the People All of the Time**](https://www.amazon.com/dp/0470481544) | David Einhorn | A long/short investor's account of fighting corporate fraud — lessons on diligence, skepticism, and conviction. |
 
@@ -152,7 +152,7 @@ Not PE-specific, but frequently cited in investment committees and boardrooms.
 | [**Playing to Win**](https://www.amazon.com/dp/142218739X) | A.G. Lafley, Roger Martin | Procter & Gamble's strategy framework — where to play, how to win. Used widely in portfolio company strategic planning. |
 | [**Good to Great**](https://www.amazon.com/dp/0066620996) | Jim Collins | The research on what makes companies sustain superior performance. The "flywheel" and "hedgehog" concepts appear in countless IC memos. |
 | [**The Outsiders**](https://www.amazon.com/dp/1422162672) | William Thorndike | Eight unconventional CEOs who were exceptional capital allocators. The mental models here directly inform PE investment thesis work. |
-| [**$100M Offers**](https://www.amazon.com/dp/1737484501) | Alex Hormozi | How to structure irresistible offers and price for value. Increasingly referenced by operating partners working on GTM and pricing at portfolio companies. |
+| [**$100M Offers**](https://www.amazon.com/dp/1737475731) | Alex Hormozi | How to structure irresistible offers and price for value. Increasingly referenced by operating partners working on GTM and pricing at portfolio companies. |
 | [**Linked: The New Science of Networks**](https://www.amazon.com/dp/0738206679) | Albert-László Barabási | Network science applied to business — understanding how connected hubs create asymmetric advantages. Relevant to deal sourcing and relationship capital. |
 
 ---
@@ -163,12 +163,12 @@ Not PE-specific, but frequently cited in investment committees and boardrooms.
 
 | Podcast | Host(s) | Description | Avg Length |
 |---------|---------|-------------|------------|
-| [**Dry Powder**](https://www.bain.com/insights/topics/dry-powder-podcast/) | Hugh MacArthur (Bain & Company) | The chairman of Bain's Global PE practice interviews experts on trends reshaping private equity. Data-driven and analytical. | ~20 min |
+| [**Dry Powder**](https://www.bain.com/insights/topics/dry-powder-the-private-equity-podcast/) | Hugh MacArthur (Bain & Company) | The chairman of Bain's Global PE practice interviews experts on trends reshaping private equity. Data-driven and analytical. | ~20 min |
 | [**Capital Allocators**](https://capitalallocators.com/podcast/) | Ted Seides | Deep-dive conversations with CIOs and allocators on how the world's most sophisticated investors deploy capital. One of the most listened-to shows in institutional investing. | ~60 min |
-| [**Private Equity Value Creation Podcast**](https://www.howtosaas.com/podcast) | Shiv Narayanan | Behind-the-scenes access to dealmakers and operators. Past guests include partners from Hg, JMI Equity, Thoma Bravo. | ~45 min |
-| [**The Private Equity Podcast**](https://www.raw-selection.com/the-private-equity-podcast/) | Alex Rawlings (Raw Selection) | Interviews with PE executives on career paths, firm-building, and portfolio management. Consistently ranks in the global top 5% of podcasts. | ~40 min |
+| [**Private Equity Value Creation Podcast**](https://www.howtosaas.com/podcasts/private-equity-value-creation-podcast) | Shiv Narayanan | Behind-the-scenes access to dealmakers and operators. Past guests include partners from Hg, JMI Equity, Thoma Bravo. | ~45 min |
+| [**The Private Equity Podcast**](https://theprivateequitypodcast.buzzsprout.com/) | Alex Rawlings (Raw Selection) | Interviews with PE executives on career paths, firm-building, and portfolio management. Consistently ranks in the global top 5% of podcasts. | ~40 min |
 | [**Private Equity Spotlight**](https://pei.podbean.com/) | PEI Group Journalists | Award-winning PE journalists cover fundraising, portfolio management, regulation, and deal trends. | ~30 min |
-| [**NextWave Private Equity**](https://www.ey.com/en_gl/podcasts/nextwave-private-equity) | Bridget Walsh (EY) | EY's global PE leader discusses emerging opportunities and themes with industry leaders. Quarterly cadence, bite-sized and dense. | ~12 min |
+| [**NextWave Private Equity**](https://www.ey.com/en_gl/media/podcasts/nextwave-private-equity) | Bridget Walsh (EY) | EY's global PE leader discusses emerging opportunities and themes with industry leaders. Quarterly cadence, bite-sized and dense. | ~12 min |
 | [**Committed Capital**](https://www.dechert.com/knowledge/podcasts/committed-capital.html) | Dechert LLP Partners | Legal and regulatory perspectives on PE trends, fund formation, and deal structuring. | ~25 min |
 | [**PE Fast Pitch**](https://podcasts.apple.com/us/podcast/private-equity-fast-pitch/id1359329939) | Jeff Henningsen | Short, fast-paced conversations with practitioners sharing insight on deals and industry dynamics. | ~30 min |
 
@@ -177,9 +177,9 @@ Not PE-specific, but frequently cited in investment committees and boardrooms.
 | Podcast | Host(s) | Description | Avg Length |
 |---------|---------|-------------|------------|
 | [**M&A Science**](https://www.mascience.com/podcast) | Kison Patel (DealRoom) | Interviews with practitioners from PE firms, advisory banks, and corporate development. Challenges M&A status quo. | ~45 min |
-| [**PEPTalks: Map of the Maze**](https://peptalks.io/) | Various | PE-backed CEO interviews focused on navigating the private equity playing field. UK-focused but broadly relevant. | ~40 min |
+| [**PEPTalks: Map of the Maze**](https://peptalksmotm.podbean.com/) | Various | PE-backed CEO interviews focused on navigating the private equity playing field. UK-focused but broadly relevant. | ~40 min |
 | [**Best But Never Final**](https://bestbutneverfinal.buzzsprout.com/) | Doug McCormick, Lloyd Metz, Sean Mooney | Three PE veterans tackle pressing issues from background checks to human capital strategies. | ~45 min |
-| [**PErspectives**](https://www.bdo.com/perspectives-podcast) | Todd Kinney (BDO) | Middle-market dealmakers discuss sourcing strategies, AI adoption, and talent retention. | ~35 min |
+| [**PErspectives**](https://www.bdo.com/insights/industries/private-equity/private-equity-perspectives-podcast) | Todd Kinney (BDO) | Middle-market dealmakers discuss sourcing strategies, AI adoption, and talent retention. | ~35 min |
 | [**Making Billions**](https://making-billions.com/) | Ryan Miller | Fund managers, startup founders, and VC investors share strategies for alternative investing. | ~50 min |
 
 ### 🌍 Broader Finance & Investing Podcasts
@@ -187,9 +187,9 @@ Not PE-specific, but frequently cited in investment committees and boardrooms.
 | Podcast | Host(s) | Description | Avg Length |
 |---------|---------|-------------|------------|
 | [**Acquired**](https://www.acquired.fm/) | Ben Gilbert, David Rosenthal | Epic, multi-hour deep dives into the greatest companies ever built. Essential for understanding value creation at scale. | ~3 hrs |
-| [**Invest Like the Best**](https://joincolossus.com/episodes/) | Patrick O'Shaughnessy | Conversations with the world's best investors and business leaders. Frequently features PE principals and operators. | ~60 min |
+| [**Invest Like the Best**](https://colossus.com/series/invest-like-the-best/) | Patrick O'Shaughnessy | Conversations with the world's best investors and business leaders. Frequently features PE principals and operators. | ~60 min |
 | [**All-In Podcast**](https://allin.com/) | Chamath, Sacks, Calacanis, Friedberg | Four investors debate markets, technology, and policy. High signal-to-noise ratio for macro and deal thesis formation. | ~90 min |
-| [**Voices of Private Equity**](https://ilpa.org/education/voices-of-private-equity/) | ILPA | Limited Partners Association podcast featuring candid conversations with industry practitioners on deal origination, ESG, value creation. | ~30 min |
+| [**Voices of Private Equity**](https://ilpa.org/news-insights/podcast/) | ILPA | Limited Partners Association podcast featuring candid conversations with industry practitioners on deal origination, ESG, value creation. | ~30 min |
 | [**20VC**](https://www.thetwentyminutevc.com/) | Harry Stebbings | Originally VC-focused, now covers growth equity and PE crossover. The most prolific interviewer in private markets. | ~40 min |
 | [**Fund Shack**](https://fund-shack.com/) | Various | Live interviews with senior GPs, LPs, and advisors in alternative investments. Candid and unscripted. | ~45 min |
 
@@ -214,7 +214,7 @@ Not PE-specific, but frequently cited in investment committees and boardrooms.
 | [**Wharton Online PE Certificate**](https://wallstreetprep.wharton.upenn.edu/pe-certificate/) | Wharton / Wall Street Prep | Joint program combining Wharton's academic rigor with WSP's practical modeling. Certificate upon completion. | $$$ |
 | [**WSO PE Interview Course**](https://www.wallstreetoasis.com/courses/interview-prep/private-equity) | Wall Street Oasis | 120+ lessons covering LBO modeling, case studies, and interview preparation. Practical and scenario-based. | $$ |
 | [**BIWS PE Modeling**](https://breakingintowallstreet.com/private-equity-modeling/) | Breaking Into Wall Street | Step-by-step LBO and PE modeling with real case studies. Focused on the technical skills tested in PE recruiting. | $$ |
-| [**CFI PE Course**](https://corporatefinanceinstitute.com/course/private-equity/) | Corporate Finance Institute | Covers PE fund structure, deal evaluation, LBO analysis, and value creation strategies. Part of CFI's FMVA program. | $–$$ |
+| [**CFI PE Course**](https://corporatefinanceinstitute.com/collections/private-equity/) | Corporate Finance Institute | Covers PE fund structure, deal evaluation, LBO analysis, and value creation strategies. Part of CFI's FMVA program. | $–$$ |
 | [**Udemy PE & VC Courses**](https://www.udemy.com/topic/private-equity/) | Various Instructors | Budget-friendly introductions to PE fundamentals and venture capital. Quality varies — check reviews carefully. | $ |
 | [**Coursera: PE & VC**](https://www.coursera.org/courses?query=private%20equity) | Various Universities | Academic-style courses from institutions like Bocconi and University of Illinois. Free to audit, paid for certificates. | Free–$$ |
 
@@ -237,7 +237,7 @@ Not PE-specific, but frequently cited in investment committees and boardrooms.
 |----------|----------|----------|
 | [**PitchBook**](https://pitchbook.com/) | Deal sourcing, company profiles, VC/PE/M&A data | The most comprehensive platform for private market transactions. Detailed company profiles, deal histories, valuations, and financial metrics across PE, VC, and M&A. Includes advanced benchmarking and proprietary Manager Scoring for LP fund selection. |
 | [**Preqin**](https://www.preqin.com/) | Fund performance, LP/GP data, benchmarking | The go-to for alternative asset data — fund performance, investor profiles, fundraising trends. Now owned by BlackRock. Covers PE, VC, hedge funds, private debt, real estate, infrastructure, and natural resources. |
-| [**S&P Capital IQ Pro**](https://www.capitaliq.com/) | Financial data, credit analysis, comparables | Deep financial data on public and private companies. Strong screening tools for comparable company analysis and credit risk assessment. |
+| [**S&P Capital IQ Pro**](https://www.spglobal.com/market-intelligence/en/solutions/products/sp-capital-iq-pro) | Financial data, credit analysis, comparables | Deep financial data on public and private companies. Strong screening tools for comparable company analysis and credit risk assessment. |
 
 ### 🥈 Tier 2: Specialized & Deal Sourcing
 
@@ -292,7 +292,7 @@ Not PE-specific, but frequently cited in investment committees and boardrooms.
 | [**Altvia**](https://altvia.com/) | Salesforce-native PE CRM with LP portal, capital call tracking, and fundraising automation. | Salesforce ecosystem firms |
 | [**Backstop Solutions**](https://www.backstopsolutions.com/) | Strong analytics and IR tools for institutional investors and PE firms. | Institutional LP-facing |
 | [**Navatar**](https://www.navatargroup.com/) | AI-powered deal engine on Salesforce. Automated activity capture, LP engagement analytics, and pipeline intelligence. | Salesforce-first firms |
-| [**Salesforce (Customized)**](https://www.salesforce.com/solutions/financial-services/) | Unlimited customization with extensive third-party integrations. Requires admin investment but scales without limits. | Large firms with IT resources |
+| [**Salesforce (Customized)**](https://www.salesforce.com/financial-services/) | Unlimited customization with extensive third-party integrations. Requires admin investment but scales without limits. | Large firms with IT resources |
 
 ### 📈 Financial Modeling & Analysis
 
@@ -358,7 +358,7 @@ These reports are essential reading for every PE professional and typically publ
 | [**Global Private Equity Outlook**](https://www.dechert.com/) | Dechert LLP | Survey of 100 senior PE executives ($2.5B+ AUM) on deal structures, creative financing, and regulatory expectations. |
 | [**US PE Breakdown**](https://pitchbook.com/news/reports) | PitchBook / NVCA | Quarterly and annual breakdowns of US PE deal activity, exit trends, fundraising, and sector analysis. |
 | [**Private Capital Quarterly Index**](https://www.cambridgeassociates.com/) | Cambridge Associates | Quarterly PE and VC index returns — the most widely used benchmarks for fund performance comparison. |
-| [**Preqin Global Reports**](https://www.preqin.com/insights/global-reports) | Preqin | Annual deep dives by asset class — PE, VC, private debt, hedge funds, real estate, infrastructure. Available to subscribers. |
+| [**Preqin Global Reports**](https://www.preqin.com/global-report) | Preqin | Annual deep dives by asset class — PE, VC, private debt, hedge funds, real estate, infrastructure. Available to subscribers. |
 
 ### 📆 Quarterly & Periodic Research
 
@@ -378,11 +378,11 @@ These reports are essential reading for every PE professional and typically publ
 
 | Newsletter | Description | Frequency |
 |------------|-------------|-----------|
-| [**PE Hub Wire**](https://www.pehub.com/) | The daily briefing for PE professionals — deal announcements, fund closes, personnel moves. | Daily |
+| [**PE Hub Wire**](https://www.privateequityinternational.com/dealmaking/) | Now published within Private Equity International. The daily briefing for PE professionals — deal announcements, fund closes, personnel moves. | Daily |
 | [**Pitchbook Daily**](https://pitchbook.com/newsletter) | Data-driven PE/VC news and analysis delivered to your inbox. | Daily |
 | [**Term Sheet (Fortune)**](https://fortune.com/newsletter/termsheet) | Fortune's daily newsletter on deals, dealmakers, and private equity. | Daily |
-| [**Buyouts Insider**](https://www.buyoutsinsider.com/) | Deep coverage of PE fundraising, deals, and firm strategy. | Daily |
-| [**The Lead Left**](https://theleadleft.com/) | Leveraged finance and PE deal flow intelligence. Curated deal announcements. | Daily |
+| [**Buyouts Insider**](https://www.privateequityinternational.com/about-buyouts-insider/) | Deep coverage of PE fundraising, deals, and firm strategy. | Daily |
+| [**The Lead (formerly The Lead Left)**](https://theleadpc.com/) | Leveraged finance and PE deal flow intelligence. Curated deal announcements. | Daily |
 | [**Matt Levine's Money Stuff**](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) | Bloomberg Opinion's legendary finance newsletter. Not PE-specific, but the wittiest and most incisive analysis of capital markets and deal dynamics. | Daily |
 | [**Institutional Investor**](https://www.institutionalinvestor.com/) | In-depth reporting on asset management, allocators, and institutional investment strategy. | Daily/Weekly |
 
@@ -391,7 +391,7 @@ These reports are essential reading for every PE professional and typically publ
 | Publication | Description |
 |-------------|-------------|
 | [**Private Equity International (PEI)**](https://www.privateequityinternational.com/) | The premier global publication covering PE fundraising, deals, regulation, and strategy. |
-| [**Buyouts**](https://www.buyoutsinsider.com/) | Focused exclusively on PE dealmaking — covers fundraising, exits, and firm strategy. |
+| [**Buyouts**](https://www.privateequityinternational.com/about-buyouts-insider/) | Focused exclusively on PE dealmaking — covers fundraising, exits, and firm strategy. |
 | [**Mergers & Acquisitions**](https://www.themiddlemarket.com/) | Middle-market M&A coverage — deal trends, sector analysis, and practitioner profiles. |
 | [**Private Funds CFO**](https://www.privatefundscfo.com/) | Operations, compliance, tax, and finance for PE fund CFOs and COOs. |
 | [**Institutional Investor**](https://www.institutionalinvestor.com/) | Broad coverage of institutional investing including PE allocations and LP strategy. |
@@ -406,9 +406,9 @@ These reports are essential reading for every PE professional and typically publ
 | [**Aswath Damodaran**](https://www.youtube.com/@AswathDamodaran) | NYU professor's full MBA valuation course — free. The best valuation education available anywhere. |
 | [**Patrick Boyle**](https://www.youtube.com/@PBoyle) | Former hedge fund manager explaining finance concepts with wit. Covers PE topics regularly. |
 | [**Wall Street Prep**](https://www.youtube.com/@WallStreetPrep) | Technical finance tutorials — LBO modeling, valuation, and deal analysis walkthroughs. |
-| [**Mergers & Inquisitions**](https://www.youtube.com/@MergersInquisitions) | Brian DeChesare's channel on investment banking and PE careers, technicals, and interview prep. |
+| [**Mergers & Inquisitions**](https://www.youtube.com/channel/UC4LeewYWZ3ruS3Bc64ldXuw) | Brian DeChesare's channel on investment banking and PE careers, technicals, and interview prep. |
 | [**How Money Works**](https://www.youtube.com/@HowMoneyWorks) | Accessible explainers on financial concepts including PE mechanics for a broader audience. |
-| [**CFI Education**](https://www.youtube.com/@CFIEducation) | Corporate Finance Institute's free tutorials on modeling, valuation, and PE analysis. |
+| [**CFI**](https://www.youtube.com/@cfi_official) | Corporate Finance Institute's free tutorials on modeling, valuation, and PE analysis. |
 
 ---
 
@@ -446,7 +446,7 @@ These reports are essential reading for every PE professional and typically publ
 | [**SuperReturn**](https://www.superreturn.com/) | Informa | The world's largest gathering of PE/VC professionals. Annual events in Berlin (International) and Miami (US). |
 | [**IPEM (International Private Equity Market)**](https://www.ipem-market.com/) | IPEM | Europe's premier GP/LP networking event. Cannes and Paris. |
 | [**PEI Operating Partners Forum**](https://www.peievents.com/) | PEI Group | Focused on value creation and operational improvement in PE portfolio companies. |
-| [**ACG DealMAX**](https://www.acg.org/dealmax) | ACG | The largest middle-market dealmaking event in the world. 3,000+ attendees annually. |
+| [**ACG DealMAX**](https://www.acg.org/events/dealmaxr-2027) | ACG | The largest middle-market dealmaking event in the world. 3,000+ attendees annually. |
 | [**ILPA Summit**](https://ilpa.org/) | ILPA | Annual LP-focused convening on governance, alignment, and private markets trends. |
 | [**Private Equity International Awards**](https://www.peievents.com/) | PEI Group | Annual recognition of top-performing firms, fund managers, and service providers. |
 | [**Milken Institute Global Conference**](https://milkeninstitute.org/) | Milken Institute | Broader finance/policy conference with significant PE presence and deal-oriented networking. |
@@ -459,7 +459,7 @@ These reports are essential reading for every PE professional and typically publ
 
 | Resource | Description |
 |----------|-------------|
-| [**Macabacus LBO Model Templates**](https://macabacus.com/resources) | Free and premium LBO model templates in Excel. Well-structured and industry-standard formatting. |
+| [**Macabacus LBO Model Templates**](https://macabacus.com/lbo-model/templates) | Free and premium LBO model templates in Excel. Well-structured and industry-standard formatting. |
 | [**Wall Street Prep LBO Model**](https://www.wallstreetprep.com/) | Real-case-study LBO model (BMC Software/Bain Capital) used in their premium courses. |
 | [**BIWS LBO Model**](https://breakingintowallstreet.com/) | Step-by-step LBO model templates with detailed case studies. Premium content. |
 | [**Damodaran Valuation Spreadsheets**](https://pages.stern.nyu.edu/~adamodar/) | Free DCF, FCFF/FCFE, and relative valuation templates from NYU's Aswath Damodaran. Updated annually. |
