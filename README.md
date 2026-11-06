@@ -339,6 +339,7 @@ Not PE-specific, but frequently cited in investment committees and boardrooms.
 | [**Claude (Anthropic)**](https://claude.ai/) | Advanced AI assistant for research synthesis, memo drafting, market analysis, and building custom PE workflows via Claude Projects. |
 | [**ChatGPT (OpenAI)**](https://chat.openai.com/) | General-purpose AI for drafting, analysis, and brainstorming. Useful for rapid research and first-draft IC memo sections. |
 | [**AlphaSense**](https://www.alpha-sense.com/) | AI-powered market intelligence — search across earnings calls, filings, broker research, and expert transcripts. |
+| [**DisconfirmAI**](https://disconfirmai.com/en) | Investment research and reading platform focused on finding disconfirming evidence before building conviction (Reading, Research, Radar, personal investment frameworks). |
 | [**Hebbia**](https://www.hebbia.ai/) | AI for document analysis — processes hundreds of documents for diligence, extracting structured data from unstructured sources. |
 | [**Tegus**](https://www.tegus.com/) | Expert interview transcripts and primary research. Search thousands of expert calls relevant to specific sectors and companies. |
 | [**BluWave**](https://www.bluwave.net/) | Connects PE firms with pre-vetted third-party resources — consultants, operating executives, and service providers. AI-matched. |
